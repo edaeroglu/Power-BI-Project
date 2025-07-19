@@ -59,8 +59,3 @@ Amaç:
 * Power Query (Veri ön işleme)
 * Etkileşimli Slicer’lar (Filtreleme)
 * Farklı görsel türleri: Kart, Bar chart, Pie chart, TreeMap
-
-## 📬 İletişim
-
-Mail: eroglueda20@gmail.com
-
