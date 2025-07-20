@@ -60,7 +60,7 @@ Amaç:
 * Etkileşimli Slicer’lar (Filtreleme)
 * Farklı görsel türleri: Kart, Bar chart, Pie chart, TreeMap
 
-Projenin ekran görüntüleri ve .pbix dosyası bulunmaktadır. Boyutu 25 mb'dan yüksek olduğu için sıkıştırılmıştır. 
+Projenin ekran görüntüleri ve .pbix dosyası bulunmaktadır. Boyutu 25 mb'dan yüksek olduğu için sıkıştırılmıştır. SQL ödevi de eklenmiştir. 
 
 Projenin çalışır haline ulaşmak için linke tıklayınız: https://app.powerbi.com/links/VqJt7_dQZz?ctid=3437b482-3cee-4702-9974-e38bb7551543&pbi_source=linkShare
 
