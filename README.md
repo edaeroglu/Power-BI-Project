@@ -63,4 +63,5 @@ Amaç:
 Projenin ekran görüntüleri ve .pbix dosyası bulunmaktadır. Boyutu 25 mb'dan yüksek olduğu için sıkıştırılmıştır. 
 
 Projenin çalışır haline ulaşmak için linke tıklayınız: https://app.powerbi.com/links/VqJt7_dQZz?ctid=3437b482-3cee-4702-9974-e38bb7551543&pbi_source=linkShare
+
 Eğer repo'dan .pbix uzantılı dosyaya ulaşamadıysanız drive ile ulaşabilirsiniz: https://drive.google.com/drive/folders/1NLPa7F5i3VWWrV64hhF5xsHWx61Q8S_E?usp=sharing
