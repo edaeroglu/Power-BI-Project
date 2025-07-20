@@ -1,5 +1,7 @@
 # Müşteri ve Satış Analitiği Raporu Power BI Projesi
 
+Projenin çalışır haline ulaşmak için linke tıklayınız: https://app.powerbi.com/links/VqJt7_dQZz?ctid=3437b482-3cee-4702-9974-e38bb7551543&pbi_source=linkShare
+
 Bu proje, bir işletmenin müşteri davranışlarını, satış performansını ve ürün kategorilerine göre dağılımları analiz etmek amacıyla Power BI kullanılarak oluşturulmuş etkileşimli bir veri görselleştirme raporudur. 
 
 Rapor; Giriş, Özet, Müşteri Perspektifi ve Kategori Perspektifi olmak üzere 4 ana sayfadan oluşmaktadır. Her sayfa, kullanıcıların veri ile etkileşime geçmesini sağlayan filtreler, kartlar ve grafiklerle zenginleştirilmiştir.
