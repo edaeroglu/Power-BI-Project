@@ -62,6 +62,25 @@ Amaç:
 * Etkileşimli Slicer’lar (Filtreleme)
 * Farklı görsel türleri: Kart, Bar chart, Pie chart, TreeMap
 
+## 📁 Dosya Yapısı
+
+power-bı-projesi.zip           # Power BI proje dosyası (ZIP)
+
+power-bı-projesi.pdf           # Power BI proje dosyası (PDF)
+
+Özet-sayfası.png           # Özet sayfası ekran görüntüsü
+
+Giriş-sayfası.png           # Giriş sayfası ekran görüntüsü
+
+Müşteri-perspektifi.png           # Müşteri perspektifi ekran görüntüsü
+
+Kategori-perspektifi.png           # Kategori perspektifi ekran görüntüsü
+
+sql_odev.sql           # SQL ödevi
+
+README.md                      # Proje açıklaması ve dokümantasyon
+
+
 
 ## ❗️Önemli Notlar
 
